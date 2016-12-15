@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\javaEightDay\android studio kf\gitClone\VideoNews\vitamio\src\main\assets"/><source path="C:\javaEightDay\android studio kf\gitClone\VideoNews\vitamio\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\javaEightDay\android studio kf\gitClone\VideoNews\vitamio\src\release\assets"/></dataSet></merger>
